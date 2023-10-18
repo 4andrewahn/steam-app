@@ -1,7 +1,5 @@
 # **Steam Game Recommendation App**
-<!-- ![Application Homepage](/homepage.png) -->
-![Application Homepage](/homepage.png){width=400px height=300px}
-
+![Application Homepage](/homepage.jpg)
 
 ---
 ## **Overview** 
